@@ -46,7 +46,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 **BullseyeGames**
 Granollers, Catalonia, Spain
-Email: [your-email@bullseyegames.com]
+Email: bullseye.casau@gmail.com
 
 ---
 
