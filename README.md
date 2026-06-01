@@ -15,5 +15,3 @@ GeoKnow is a mobile geography quiz game available on Android and iOS.
 **Contact:** bullseye.casau@gmail.com
 
 ---
-
-*To update these documents, edit the relevant `.md` file and commit the changes. GitHub Pages will reflect the changes automatically.*
