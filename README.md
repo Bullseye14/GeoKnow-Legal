@@ -12,6 +12,6 @@ This repository hosts the legal documents for the GeoKnow mobile application by 
 GeoKnow is a mobile geography quiz game available on Android and iOS.
 
 **Developer:** BullseyeGames  
-**Contact:** bullseye.casau@gmail.com
+**Contact:** pccpolcasau@gmail.com
 
 ---
