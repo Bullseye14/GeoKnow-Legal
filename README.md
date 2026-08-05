@@ -1,4 +1,4 @@
-# GeoKnow — Legal Documents
+# GeoKnow - Legal Documents
 
 This repository hosts the legal documents for the GeoKnow mobile application by BullseyeGames.
 
